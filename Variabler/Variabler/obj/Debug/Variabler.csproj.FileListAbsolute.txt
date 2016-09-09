@@ -1,0 +1,6 @@
+C:\Users\oskarwn\GitHub\Variabler\Variabler\bin\Debug\Variabler.exe.config
+C:\Users\oskarwn\GitHub\Variabler\Variabler\obj\Debug\Variabler.csprojResolveAssemblyReference.cache
+C:\Users\oskarwn\GitHub\Variabler\Variabler\bin\Debug\Variabler.exe
+C:\Users\oskarwn\GitHub\Variabler\Variabler\bin\Debug\Variabler.pdb
+C:\Users\oskarwn\GitHub\Variabler\Variabler\obj\Debug\Variabler.exe
+C:\Users\oskarwn\GitHub\Variabler\Variabler\obj\Debug\Variabler.pdb
