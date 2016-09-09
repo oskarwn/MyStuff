@@ -1,0 +1,6 @@
+C:\Users\oskarwn\GitHub\Switch-satsen\Switch-satsen\bin\Debug\Switch-satsen.exe.config
+C:\Users\oskarwn\GitHub\Switch-satsen\Switch-satsen\bin\Debug\Switch-satsen.exe
+C:\Users\oskarwn\GitHub\Switch-satsen\Switch-satsen\bin\Debug\Switch-satsen.pdb
+C:\Users\oskarwn\GitHub\Switch-satsen\Switch-satsen\obj\Debug\Switch-satsen.csprojResolveAssemblyReference.cache
+C:\Users\oskarwn\GitHub\Switch-satsen\Switch-satsen\obj\Debug\Switch-satsen.exe
+C:\Users\oskarwn\GitHub\Switch-satsen\Switch-satsen\obj\Debug\Switch-satsen.pdb
